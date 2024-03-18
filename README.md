@@ -8,5 +8,10 @@ I use VS Code to edit, and compile with make, using a Makefile.
 I really don't like VS Code but it's free and I have to use it. And I waste too much time finding and searching
 how the VS Code works, with those entangled .json files.
 
+It needs the hidapi from usblib. Get the hidapi library from https://github.com/libusb/hidapi/tree/master and
+install to your system.
+
+This program uses a Makefile, so get CMAKE for windows in order to compile with Maketools on VS Code.
+
 tjactivo@hotmail.com
 
