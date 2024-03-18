@@ -1,0 +1,10 @@
+{
+    "cmake.options.statusBarVisibility": "visible",
+    "makefile.launchConfigurations": [
+        {
+            "cwd": "d:\\Windows_Dev\\lectorhid",
+            "binaryPath": "d:\\Windows_Dev\\lectorhid\\lectorhid.exe",
+            "binaryArgs": []
+        }
+    ]
+}

@@ -1,0 +1,12 @@
+{
+    "tasks": [
+        {
+            "type": "shell",
+            "label": "run the makefile",
+            "command": "C:\\msys64\\mingw64\\bin\\mingw32-make.exe",
+            "args": ["lectorhid.exe"],
+            "problemMatcher": [],
+        }
+    ],
+    "version": "2.0.0"
+}
