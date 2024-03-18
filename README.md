@@ -12,6 +12,10 @@ It needs the hidapi from usblib. Get the hidapi library from https://github.com/
 install to your system.
 
 This program uses a Makefile, so get CMAKE for windows in order to compile with Maketools on VS Code.
+Having trouble compiling this on VS Code? Run make from the command line! Really!
+Or read this https://hackernoon.com/how-to-set-up-c-debugging-in-vscode-using-a-makefile
+It helped me, and can help you. Just be ware the path to the compiles may be different on your system.
 
+Pedro Farías Lozano
 tjactivo@hotmail.com
 
